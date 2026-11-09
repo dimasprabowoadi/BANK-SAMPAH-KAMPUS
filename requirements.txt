@@ -1,0 +1,3 @@
+# Proyek ini hanya memakai pustaka standar Python (abc, dataclasses, unittest).
+# Tidak ada paket pihak ketiga yang perlu dipasang.
+# Versi Python yang disarankan: 3.8 atau lebih baru.
