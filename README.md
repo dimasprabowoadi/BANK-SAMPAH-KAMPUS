@@ -13,7 +13,7 @@
 
 | | |
 |---|---|
-| **Mata Kuliah** | Pemrograman Berorientasi Objek (5528303010) |
+| **Mata Kuliah** | Pemrograman Berorientasi Objek |
 | **Tugas** | MiniApps |
 | **Capaian** | Mahasiswa mampu mengorganisasi program berorientasi objek ke dalam *module* dan *package* untuk menghasilkan struktur program yang modular dan mudah dipelihara |
 | **Program Studi** | S1 Kecerdasan Artifisial |
@@ -285,10 +285,4 @@ print(format_poin(setoran.total_poin()))   # 40 poin
 
 ---
 
-## 🙋 Penulis
-
 Mahasiswa **S1 Kecerdasan Artifisial**, Fakultas Matematika dan Ilmu Pengetahuan Alam, **Universitas Negeri Surabaya**, 2026.
-
-- Maria Bryghita Sora Gracya (25032014044)
-- Dimas Prabowo Adi Negoro (25032014068)
-- Raffi Khairan Hidayat (25032014040)
