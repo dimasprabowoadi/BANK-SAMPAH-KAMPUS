@@ -50,7 +50,7 @@ Aplikasi ini mendemonstrasikan:
 | Pemilahan Sampah di Kampus | Contoh Bank Sampah |
 |---|---|
 | <img src="tempat_sampah_kampus.jpg" alt="Tempat sampah plastik di lingkungan kampus" width="420"> | <img src="bank_sampah.jpg" alt="Bank sampah dengan pemilahan botol plastik, plastik, kertas, dan daun" width="420"> |
-| Penyetor memilah sampah plastik ke tempat sampah terpilah di lingkungan kampus. *(Sumber: Pusat Informasi Fakultas Ilmu Pendidikan UNESA, sesuai watermark pada foto)* | Bank sampah dengan tempat terpisah untuk botol plastik, plastik, kertas, dan daun. |
+| Penyetor memilah sampah plastik ke tempat sampah terpilah di lingkungan kampus. | Bank sampah dengan tempat terpisah untuk botol plastik, plastik, kertas, dan daun. |
 
 ---
 
